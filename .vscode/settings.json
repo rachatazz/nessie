@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "dpg-cmufvguv3ddc738htobg-a.singapore-postgres.render.com",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "nessie",
+      "database": "nessie",
+      "username": "nessie_user",
+      "password": "3qFmm9kYrgHe19wQWCAznsIUhrapLFp7"
+    }
+  ]
+}
